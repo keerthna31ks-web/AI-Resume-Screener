@@ -1,5 +1,5 @@
 # AI Resume Screener
-Live Demo: Try AI Resume Screener
+Live Demo: https://ai-resume-screener-5vwvdpwfbfypc5vyxruxpn.streamlit.app
 A Streamlit application that compares resumes with a job description using semantic similarity and skill matching.
 
 ## Features
