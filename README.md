@@ -1,6 +1,6 @@
 # AI Resume Screener
-
-A Streamlit application that helps compare resumes with a job description using semantic similarity and skill matching.
+Live Demo: Try AI Resume Screener
+A Streamlit application that compares resumes with a job description using semantic similarity and skill matching.
 
 ## Features
 
